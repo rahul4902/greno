@@ -16,6 +16,10 @@
 /**=====================
     06. Button CSS start
 ==========================**/
+button{
+  background-color: #7a70ba !important;
+  color: #fff;
+}
 .btn-link {
   color: #7A70BA;
 }
@@ -7174,7 +7178,7 @@ body.dark-only .page-footer .page-changes-summary {
 .news-letter-form input[type="submit"] {
   width: auto;
   border: none;
-  background-color: #ffb606;
+  background-color: #7a70ba;
   padding: 9px 30px;
   border-radius: 5px;
   -webkit-border-radius: 5px;
